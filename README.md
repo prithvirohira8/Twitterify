@@ -3,7 +3,7 @@
   <img style="float: right;" src="./Assets/twitterify_logo.png" alt="Twitterify Logo" width="80" height="80">
 </div>
 
-### *A web platform to get quick, accurate and valuable statistical insights for real time twitter data. </h3>*
+### *A web platform to get quick, accurate and valuable statistical insights for real time twitter data. *
 
 ### Table of contents
 
